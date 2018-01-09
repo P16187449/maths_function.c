@@ -7,5 +7,7 @@ int main(){
 
 	printf ("%i + %i = %i\n", x, y, x-y);
 
+	printf ("%i + %i = %i\n", x, y, x*y);
+
 	return 0;
 }
