@@ -11,5 +11,6 @@ int main(){
 
 	printf ("%i + %i = %i\n", x, y, x/y);
 
+	printf ("%i MOD %i = %i\n", x, y, x%y);
 	return 0;
 }
