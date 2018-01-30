@@ -1,4 +1,5 @@
 //This is the line causng issue in the conflict branch
+//This is the second line cuasing issue in the <conflict> branch
 #include <stdhi.o>
 
 int main(){	
